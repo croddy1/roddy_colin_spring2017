@@ -3,7 +3,7 @@
 ## Analysis 1
 - To start I wanted to see who emailed the most and who the top few emailers were. The results of this can be found under que1/ana_1/emails.csv. The top three were Kay Mann, Vince Kaminski, and Jeff Dasovich with 16,735, 14,368, and 11,411 respectively. Vince Kaminski was the Director of Research at Enron, so I'm surprised by the number of emails he sent. It'll be interesting to see how many the CEO has.
 - Interestingly, there is a linear coorelation of the log-log of the number of emails sent, as can be seen below.
-![Image of LogLogEmails](/que1/ana_1/LogLogEmails.png)
+![Image of LogLogEmails](files/que1/ana_1/LogLogEmails.png)
 
 ## Analysis 2
 - For this analysis I focused on any emails that contained "Andersen" in them as Arthur Andersen was Enron's legal coucil. I combed through all data and pulled any emails that contained the word 'Andersen' in them; there were 436 of them.
