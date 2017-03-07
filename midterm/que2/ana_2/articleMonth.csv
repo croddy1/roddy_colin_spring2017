@@ -1,0 +1,483 @@
+Month,category,Num Articles
+1,Fashion & Style,308
+1,Blogs,61
+1,Style,12
+1,Sports,662
+1,Books,154
+1,Food,81
+1,Education,83
+1,Universal,60
+1,Obituaries,28
+1,Corrections,32
+1,Business Day,530
+1,Science,59
+1,NYT Now,56
+1,The Upshot,56
+1,N.Y. ,452
+1,Arts,557
+1,Movies,161
+1,Travel,89
+1,Technology,132
+1,T Magazine,139
+1,Magazine,79
+1,Multimedia,42
+1,Public Editor,1
+1,Times Insider,18
+1,Great Homes & Destinations,2
+1,World,648
+1,Health,88
+1,Your Money,30
+1,Opinion,625
+1,Job Market,8
+1,Automobiles,14
+1,Sunday Review,3
+1,membercenter,1
+1,Crosswords & Games,43
+1,U.S.,967
+1,Theater,80
+1,Real Estate,94
+1,Paid Death Notices,531
+1,Today’s Paper,1
+1,Times Topics,4
+2,Fashion & Style,418
+2,Blogs,62
+2,Style,9
+2,Sports,594
+2,Books,106
+2,Food,87
+2,Education,84
+2,Learning,1
+2,Universal,6
+2,Obituaries,4
+2,Corrections,30
+2,Business Day,488
+2,Science,76
+2,NYT Now,58
+2,Books; Arts,1
+2,The Upshot,69
+2,N.Y. ,345
+2,Arts,500
+2,Movies,141
+2,Travel,73
+2,Technology,136
+2,T Magazine,287
+2,Magazine,58
+2,Multimedia,45
+2,Public Editor,1
+2,Times Insider,29
+2,World,606
+2,No_Section,1
+2,Your Money,33
+2,Opinion,604
+2,Job Market,5
+2,Automobiles,9
+2,Sunday Review,2
+2,membercenter,1
+2,Crosswords & Games,40
+2,U.S.,931
+2,Health,90
+2,Theater,65
+2,Real Estate,66
+2,Paid Death Notices,447
+2,Today’s Paper,1
+2,Times Topics,3
+3,Fashion & Style,286
+3,Blogs,58
+3,Style,18
+3,Sports,746
+3,Books,128
+3,Food,95
+3,Education,99
+3,Universal,10
+3,Obituaries,3
+3,Corrections,32
+3,Business Day,556
+3,Science,90
+3,NYT Now,65
+3,Books; Arts,1
+3,The Upshot,66
+3,N.Y. ,397
+3,Arts,577
+3,Movies,149
+3,Travel,73
+3,Technology,140
+3,T Magazine,237
+3,Magazine,71
+3,Multimedia,39
+3,Public Editor,2
+3,Times Insider,37
+3,World,704
+3,No_Section,2
+3,Your Money,24
+3,Opinion,614
+3,Job Market,8
+3,Automobiles,9
+3,Sunday Review,2
+3,Crosswords & Games,40
+3,U.S.,841
+3,Health,134
+3,Theater,87
+3,Real Estate,86
+3,Paid Death Notices,511
+3,Today’s Paper,1
+3,Times Topics,3
+4,Fashion & Style,225
+4,Blogs,46
+4,Style,7
+4,Sports,593
+4,Books,137
+4,Food,105
+4,Education,102
+4,Universal,7
+4,Obituaries,3
+4,Corrections,31
+4,Business Day,489
+4,Science,78
+4,NYT Now,59
+4,Books; Arts,1
+4,The Upshot,59
+4,N.Y. ,391
+4,Arts,579
+4,Movies,148
+4,Travel,51
+4,Technology,114
+4,T Magazine,127
+4,Magazine,70
+4,Multimedia,24
+4,Public Editor,1
+4,Times Insider,39
+4,World,609
+4,Health,118
+4,Your Money,21
+4,Opinion,593
+4,Job Market,8
+4,Automobiles,8
+4,Sunday Review,3
+4,Crosswords & Games,49
+4,U.S.,640
+4,Theater,78
+4,Real Estate,83
+4,Paid Death Notices,398
+4,Today’s Paper,1
+5,Fashion & Style,266
+5,Blogs,45
+5,Style,29
+5,Sports,573
+5,Books,174
+5,Food,80
+5,Education,98
+5,Universal,11
+5,Obituaries,6
+5,Corrections,33
+5,Business Day,426
+5,Science,91
+5,NYT Now,53
+5,Books; Arts,2
+5,The Upshot,52
+5,N.Y. ,406
+5,Arts,525
+5,Movies,140
+5,U.S.,602
+5,Technology,109
+5,T Magazine,137
+5,Magazine,77
+5,Multimedia,26
+5,International Home,2
+5,Real Estate,100
+5,Travel,77
+5,World,638
+5,Health,122
+5,Your Money,28
+5,Opinion,588
+5,Job Market,8
+5,Automobiles,6
+5,Sunday Review,4
+5,membercenter,2
+5,Crosswords & Games,42
+5,Theater,107
+5,Times Insider,39
+5,Paid Death Notices,399
+5,Today’s Paper,2
+6,Fashion & Style,375
+6,Blogs,45
+6,Style,9
+6,Sports,559
+6,Books,151
+6,Food,123
+6,Education,89
+6,Universal,21
+6,Obituaries,21
+6,Corrections,30
+6,Business Day,411
+6,Science,77
+6,NYT Now,54
+6,Books; Arts,1
+6,The Upshot,82
+6,N.Y. ,369
+6,Arts,438
+6,Movies,135
+6,U.S.,622
+6,Technology,113
+6,T Magazine,140
+6,Magazine,54
+6,Multimedia,30
+6,Real Estate,82
+6,Travel,72
+6,World,604
+6,Health,122
+6,Your Money,30
+6,Opinion,551
+6,Job Market,8
+6,Automobiles,14
+6,Sunday Review,4
+6,Crosswords & Games,39
+6,Theater,111
+6,Times Insider,42
+6,Paid Death Notices,445
+6,Today’s Paper,1
+7,Fashion & Style,370
+7,Blogs,41
+7,Style,11
+7,Sports,500
+7,Books,149
+7,Food,100
+7,Education,9
+7,Universal,14
+7,Obituaries,9
+7,Corrections,30
+7,Business Day,415
+7,Science,77
+7,NYT Now,49
+7,Books; Arts,1
+7,The Upshot,46
+7,N.Y. ,360
+7,Arts,403
+7,Movies,128
+7,Afternoon Update,1
+7,Technology,110
+7,T Magazine,87
+7,Magazine,78
+7,Multimedia,22
+7,Real Estate,90
+7,Travel,80
+7,World,587
+7,Health,105
+7,Your Money,26
+7,Opinion,556
+7,Job Market,10
+7,Automobiles,10
+7,Sunday Review,2
+7,Crosswords & Games,43
+7,U.S.,769
+7,Theater,84
+7,Times Insider,33
+7,Paid Death Notices,346
+7,Today’s Paper,1
+8,N.Y. ,361
+8,Fashion & Style,258
+8,Blogs,29
+8,Style,3
+8,Sports,605
+8,Books,153
+8,Well,8
+8,Food,109
+8,Education,85
+8,Universal,10
+8,Obituaries,11
+8,Corrections,32
+8,Business Day,363
+8,Science,81
+8,NYT Now,49
+8,The Upshot,49
+8,Podcasts,7
+8,Arts,390
+8,Movies,124
+8,Travel,73
+8,Technology,111
+8,T Magazine,125
+8,Magazine,65
+8,Multimedia,28
+8,Public Editor,6
+8,Times Insider,35
+8,Briefing,9
+8,Health,106
+8,Your Money,31
+8,Opinion,539
+8,Job Market,12
+8,Automobiles,7
+8,World,570
+8,Crosswords & Games,41
+8,U.S.,496
+8,The Learning Network,4
+8,Theater,76
+8,Real Estate,81
+8,Sunday Review,2
+8,Today’s Paper,1
+9,Fashion & Style,524
+9,Blogs,25
+9,Podcasts,13
+9,Sports,460
+9,Books,132
+9,Well,65
+9,Food,106
+9,Education,61
+9,Universal,9
+9,Obituaries,2
+9,Corrections,31
+9,Business Day,439
+9,Science,83
+9,NYT Now,8
+9,Style,28
+9,The Upshot,100
+9,N.Y. ,337
+9,Arts,479
+9,Movies,150
+9,Afternoon Update,1
+9,Technology,116
+9,T Magazine,239
+9,Magazine,66
+9,Multimedia,24
+9,Travel,57
+9,Public Editor,8
+9,Times Insider,41
+9,Briefing,45
+9,Health,38
+9,Your Money,30
+9,Opinion,566
+9,Job Market,9
+9,Automobiles,12
+9,World,608
+9,Crosswords & Games,38
+9,The Learning Network,56
+9,Theater,92
+9,Real Estate,81
+9,U.S.,592
+9,Today’s Paper,1
+10,Fashion & Style,360
+10,Blogs,23
+10,Giving,2
+10,Sports,476
+10,Books,167
+10,Well,82
+10,Food,110
+10,Education,3
+10,Podcasts,12
+10,Watching,6
+10,Universal,5
+10,Obituaries,4
+10,Corrections,31
+10,Business Day,433
+10,Science,90
+10,NYT Now,8
+10,Style,30
+10,The Upshot,55
+10,N.Y. ,308
+10,Arts,503
+10,Movies,139
+10,Travel,84
+10,Technology,122
+10,T Magazine,130
+10,Magazine,74
+10,Multimedia,23
+10,Public Editor,5
+10,Times Insider,37
+10,Briefing,74
+10,Health,28
+10,Your Money,28
+10,Opinion,650
+10,Job Market,14
+10,Automobiles,11
+10,World,562
+10,Crosswords & Games,42
+10,U.S.,646
+10,Admin,1
+10,The Learning Network,99
+10,Theater,109
+10,Real Estate,90
+10,Sunday Review,2
+10,Today’s Paper,1
+11,Fashion & Style,255
+11,Blogs,21
+11,Giving,9
+11,Sports,365
+11,Books,172
+11,Well,63
+11,Food,104
+11,Education,14
+11,Podcasts,16
+11,Watching,23
+11,Universal,6
+11,Obituaries,1
+11,Corrections,29
+11,Business Day,393
+11,Science,76
+11,NYT Now,4
+11,Style,35
+11,The Upshot,98
+11,N.Y. ,306
+11,Arts,441
+11,Movies,139
+11,Travel,65
+11,Technology,109
+11,T Magazine,110
+11,Magazine,85
+11,Multimedia,36
+11,Public Editor,10
+11,Times Insider,36
+11,Briefing,87
+11,Health,35
+11,Your Money,47
+11,Opinion,611
+11,Job Market,8
+11,Automobiles,8
+11,World,514
+11,Crosswords & Games,36
+11,U.S.,623
+11,Admin,1
+11,The Learning Network,96
+11,Theater,89
+11,Real Estate,91
+11,Sunday Review,4
+11,Today’s Paper,1
+12,Fashion & Style,201
+12,Blogs,22
+12,Podcasts,12
+12,Sports,384
+12,Books,157
+12,Well,60
+12,Food,107
+12,Watching,21
+12,Universal,8
+12,Obituaries,5
+12,Corrections,31
+12,Business Day,380
+12,Science,61
+12,NYT Now,6
+12,Style,15
+12,The Upshot,37
+12,N.Y. ,347
+12,Arts,406
+12,Movies,152
+12,Travel,68
+12,Technology,109
+12,T Magazine,72
+12,Magazine,92
+12,Multimedia,24
+12,International Home,1
+12,Public Editor,9
+12,Times Insider,40
+12,Briefing,86
+12,Health,47
+12,Your Money,29
+12,Opinion,584
+12,Job Market,5
+12,Automobiles,12
+12,World,590
+12,Crosswords & Games,38
+12,U.S.,453
+12,Admin,1
+12,The Learning Network,79
+12,Theater,85
+12,Real Estate,95
+12,Sunday Review,1
+12,Today’s Paper,1
