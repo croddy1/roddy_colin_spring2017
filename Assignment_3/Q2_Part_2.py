@@ -41,4 +41,4 @@ holder = final.groupby('Job Family').mean()
 print(holder.head())
 
 #write to csv file
-holder.to_csv('Q2_Part_2.csv',index=False,header=True)
+holder.to_csv('Q2_Part_2.csv',index=True,header=True)
