@@ -17,4 +17,4 @@ avg_compensation = comp.groupby(['Organization Group','Department']).mean().sort
 print(avg_compensation.head())
 
 #write to csv file
-avg_compensation.to_csv('Q2_Part_1.csv',index=False,header=True)
+avg_compensation.to_csv('Q2_Part_1.csv',index=True,header=True)
