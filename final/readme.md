@@ -152,7 +152,8 @@ Looking at the graph comparing China's increase in temperature to its total emis
 
 <img src="analysis/ana_5/topTenEmissions.png" width="750">
 
-Indonesia's plot shows more corelation between its emissions and 
+Indonesia's plot seems to show more corelation between Indonesia's emissions and its gas emissions. The paks of both generally fallow the same pattern and the CO2 preceeds the rise in temeratures as you'd expect. There is not a direct corelation, however, which suggests there is more that needs to be taken into account than just the level of emissions. Indonesia's total emissions rate is also much more chaotic than China's and it'd be interesting to understand why.
+
 
 
 
@@ -164,5 +165,19 @@ The main source of my data was too large to upload to Github, so you will need t
 
 ### Additional Library
 I used the basemap library from matplotlib, documentation can be found [here](https://matplotlib.org/basemap/). To install, simply execute `$conda install basemap` in your terminal.
+
+
+## Extra
+Out of curiosity, I wanted to know which countries had the greatest rise in total emissions since 1970 and so I plotted those below.
+
+<img src="analysis/ana_5/topDeltas.png" width="750">
+
+<img src="analysis/ana_5/topDeltaPlot.png" width="750">
+
+As you can see, China has had a staggering increase in emissions over 43 years and shows no signs of stopping. 
+
+I also wanted to see which countries were currently producing the most greenhouse gases around the world. You can find a graph of all emissions [here](topEmissions) and the total emissions of the top five contributors since 1970, below.
+
+<img src="analysis/ana_5/topEmsPlot.png" width="750">
 
 
