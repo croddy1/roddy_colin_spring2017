@@ -7,6 +7,7 @@ To start, I wanted to understand the dataset a bit more. First, I calculated the
 
 ![Image](analysis/ana_1/countryhistogram.svg)
 
+![aImage](analysis/ana_1/countryhistogram.png =250x)
 It shows us what the and answer a few simple questions like 'What is the hotest country in the world?'. I started broad and separated the 
 
 
