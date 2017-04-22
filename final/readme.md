@@ -14,7 +14,7 @@ To start, I wanted to understand the dataset a bit more. First, I calculated the
 
 It shows us what the and answer a few simple questions like 'What is the hotest country in the world?'. I started broad and separated the 
 
-
+Is this even changing?
 
 ## Addtional Instructions to Run Code
 ### Data
