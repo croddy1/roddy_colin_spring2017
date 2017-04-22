@@ -156,7 +156,7 @@ Indonesia's change in total emissions is far more sporadic than China's, but the
 
 Looking at the graph comparing China's increase in temperature to its total emissions shows a general correlation of slope increase other than the span of 2005 to 2011. However, the rapid jump in 2013 brought the correlation back to normal. The peaks of emissions do seem to precede some of the peaks in temperature change, so there could be something there.
 
-<img src="analysis/ana_5/topTenEmissions.png" width="700">
+<img src="analysis/ana_5/IndoGasVsTemp.png" width="700">
 
 Indonesia's plot seems to show more correlation between Indonesia's emissions and its gas emissions. The paths of both generally fallow the same pattern and the CO2 precedes the rise in temperatures as you'd expect. There is not a direct correlation, however, which suggests there is more that needs to be taken into account than just the level of emissions. Indonesia's total emissions rate is also much more chaotic than China's and it'd be interesting to understand why.
 
