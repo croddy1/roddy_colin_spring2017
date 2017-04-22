@@ -106,58 +106,66 @@ After looking at different trends and event in global termperatures, I wanted to
 
 To get an idea of what their temperature profiles look like during that time period, I graphed the top six below. I used the top six, because one of the top five, Saint Pierre and Miquelon, doesn't have any gas emissions data in the dataset I used.
 
-<img src="analysis/ana_4/maxDiffs.png" width="750">
+<img src="analysis/ana_4/maxDiffs.png" width="800">
 
 The general trend is that the temperature is rising, but something to note is that Greenland and Denmark have nearly identical temperature patterns. This could be due to Greenland being a colony of Denmark's and so linking the two countries data together. 
 
 ### Greenland
 I can't discern much by comparing the two graphs other than the temperature, methane, and NO2 all have the same upward trend.
 
-<img src="analysis/ana_4/GreenlandTemp.png" width="750">
+<img src="analysis/ana_4/GreenlandTemp.png" width="700">
 <img src="analysis/ana_4/GreenlandGases.png" width="750">
 
 ### Denmark
 Denmark's emissions seem to be on the descent and much lower than they were in 1970 despite the rise in temperature. 
-<img src="analysis/ana_4/DenmarkTemp.png" width="750">
-<img src="analysis/ana_4/DenmarkGases.png" width="750">
-### Canada
 
-<img src="analysis/ana_4/CanadaTemp.png" width="750">
+<img src="analysis/ana_4/DenmarkTemp.png" width="700">
+<img src="analysis/ana_4/DenmarkGases.png" width="750">
+
+### Canada
+Canada's 
+
+<img src="analysis/ana_4/CanadaTemp.png" width="700">
 <img src="analysis/ana_4/CanadaGases.png" width="750">
+
 ### Iran
 Iran has a surprisingly steady increase in all gas emissions.
-<img src="analysis/ana_4/IranTemp.png" width="750">
+
+<img src="analysis/ana_4/IranTemp.png" width="700">
 <img src="analysis/ana_4/IranGases.png" width="750">
+
 ### Armenia
 Armenia has had an agressive increase in both CO2 and NO2 since the mid nineties. The sudden drop in all three gases in the early nineties may corelate to the dip in temperature around that same time.
 
-<img src="analysis/ana_4/ArmeniaTemp.png" width="750">
+<img src="analysis/ana_4/ArmeniaTemp.png" width="700">
 <img src="analysis/ana_4/ArmeniaGases.png" width="750">
 
 
 ## Analysis 5: 
 For my final analysis, I wanted to look at the gas corelation a different way. Rater than start with the largest raises in temperature over a period of time, I looked at the rate of change, over a five year period, in total gas emissions to see if there were trends in those countries' temperatures that were more apparent. The top 16 changes in total emmisions were either in Indonesia or China and in the top 50 instances, 23 were China and 16 were Indonesia. For the sake of comparison, I've plotted the maximum changes of the top ten unique countries.
 
-<img src="analysis/ana_5/topTenEmissions.png" width="750">
+<img src="analysis/ana_5/topTenEmissions.png" width="700">
 
 I then wanted to see what the top five countries emissions profiles looked like.
 
-<img src="analysis/ana_5/topTenEmissionsPlot.png" width="750">
+<img src="analysis/ana_5/topFiveEmissionsPlot.png" width="650">
 
 Indonesia's change in total emissions is far more sparadic than China's, but the rate of increase for China is far greater. Comparing the change in temperature to the total emissions...
 
-<img src="analysis/ana_5/ChinaGasVsTemp.png" width="750">
+<img src="analysis/ana_5/ChinaGasVsTemp.png" width="650">
 
 Looking at the graph comparing China's increase in temperature to its total emissions shows a general corelation of slope increase other than the span of 2005 to 2011. However, the rapid jump in 2013 brought the corelation back to normal. The peaks of emissions do seem to preceed some of the peaks in temperature change, so there could be something there.
 
-<img src="analysis/ana_5/topTenEmissions.png" width="750">
+<img src="analysis/ana_5/topTenEmissions.png" width="700">
 
 Indonesia's plot seems to show more corelation between Indonesia's emissions and its gas emissions. The paks of both generally fallow the same pattern and the CO2 preceeds the rise in temeratures as you'd expect. There is not a direct corelation, however, which suggests there is more that needs to be taken into account than just the level of emissions. Indonesia's total emissions rate is also much more chaotic than China's and it'd be interesting to understand why.
 
+To better evaluate if there is a corelation between total emissions and rise in temperature I plotted the two in a scatterplot and applied a line of best fit. As can be seen in the graph below, there is a positive corelation between the two in that the higher emissions, the more likely the temperature is to increase as well.
 
+<img src="analysis/ana_5/tempVsEms.png" width="600">
 
+Global temperature and weather patters are extremely complex and are effected by a myriad of variables. I think if I were to continue analysing this information, I'd want to include the temperature of the ocean and perhaps reduce the resolution of focus and move to an area view of temperature rather than countries.
 
-Overall, it's too difficult to discern any real connection between the graphs at this level of granularit. I think moving to a more regional view would be better
 
 ## Addtional Instructions to Run Code
 ### Data
@@ -172,12 +180,12 @@ Out of curiosity, I wanted to know which countries had the greatest rise in tota
 
 <img src="analysis/ana_5/topDeltas.png" width="750">
 
-<img src="analysis/ana_5/topDeltaPlot.png" width="750">
+<img src="analysis/ana_5/topDeltaPlot.png" width="600">
 
 As you can see, China has had a staggering increase in emissions over 43 years and shows no signs of stopping. 
 
-I also wanted to see which countries were currently producing the most greenhouse gases around the world. You can find a graph of all emissions [here](topEmissions) and the total emissions of the top five contributors since 1970, below.
+I also wanted to see which countries were currently producing the most greenhouse gases around the world. You can find a graph of all emissions [here](analysis/ana_5/topEmissions.png) and the total emissions of the top five contributors since 1970, below. Although the US is one of the top contributors, I'm happy to see the total emissions are declining.
 
-<img src="analysis/ana_5/topEmsPlot.png" width="750">
+<img src="analysis/ana_5/topEmsPlot.png" width="600">
 
 
