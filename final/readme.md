@@ -6,7 +6,7 @@ To start, I wanted to understand the dataset a bit more. First, I calculated the
 
 ![Image of LogLogEmails](analysis/ana_1/countryhistogram.png)
 
-![Image of histo](analysis/ana_1/countryhistogram2.png)
+![Image of histo](analysis/ana_1/countryhistogram.png =100x)
 
 ![Image](analysis/ana_1/countryhistogram.svg)
 
