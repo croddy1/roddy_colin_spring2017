@@ -1,8 +1,8 @@
 # Final
-The purpose of this assignment was to perform 5 analyses on a readily downloadable dataset. With global warming being such a hot topic lately, I chose to look into global temperature patterns and what might be the causes of those patterns.
+The purpose of this assignment was to perform 5 analyses on a readily downloadable dataset. With global warming being such a hot topic lately, I chose to look into global temperature patterns and what might be causing those patterns.
 
-## Analysis 1: Hot vs Cod
-To start, I wanted to understand the dataset a bit more. First, I calculated the average temperature of the dataset of country temperature data. According to that dataset, the average temperature of the globe is 17.5&deg;C. I then created a histogram of the country temperature dataset to get a feel for the distribution of temperatures around the world. That histogram is below.
+## Analysis 1: Hot vs Cold
+To start, I wanted to understand the dataset a bit more. First, I calculated the average temperature of the dataset of country temperature. According to that dataset, the average temperature of the globe is 17.5&deg;C. I then created a histogram of the country temperature dataset to get a feel for the distribution of temperatures around the world. That histogram is below.
 
 <img align="center" src="analysis/ana_1/countryhistogram.png" width="600">
 
@@ -100,11 +100,11 @@ These four countries follow a very similar temperature profile and one can clear
 
 ## Analysis 4: Effect of Gases on Temperature
 
-After looking at different trends and event in global temperatures, I wanted to investigate a cause. The most mentioned in global warming are CO2 and other greenhouse gases. I decided to compare the emissions of CO2, NO2, and methane to the change in temperature between 1970 and 2013; the emissions data I found starts at 1970. Below are the top ten countries of that delta.
+After looking at different trends and events in global temperatures, I wanted to investigate a cause. The most mentioned cause in global warming are CO2 and other greenhouse gases. I decided to compare the emissions of CO2, NO2, and methane to the change in temperature between 1970 and 2013; the emissions data I found starts at 1970. The graph below is of the ten countries with the highest temperature delta between 1970 and 2013; a condensed time period relative to Analysis 2. 
 
 <img src="analysis/ana_4/topSixDiffs.png" width="650">
 
-To get an idea of what their temperature profiles look like during that time period, I graphed the top six below. I used the top six, because one of the top five, Saint Pierre and Miquelon, doesn't have any gas emissions data in the dataset I used.
+To get an idea of what their temperature profiles look like during that time period, I wanted to graph the top five from the ten above. One of the top five countries, Saint Pierre and Miquelon, was excluded from further investigation, however, because the emissions dataset did not contain information for it. Therefore, I graphed the top six countries as to include the five that will be reviewed further down.
 
 <img src="analysis/ana_4/maxDiffs.png" width="800">
 
@@ -142,15 +142,15 @@ Armenia has had an aggressive increase in both CO2 and NO2 since the mid-ninetie
 
 
 ## Analysis 5: 
-For my final analysis, I wanted to look at the gas correlation a different way. Rater than start with the largest raises in temperature over a period of time, I looked at the rate of change, over a five year period, in total gas emissions to see if there were trends in those countries' temperatures that were more apparent. The top 16 changes in total emissions were either in Indonesia or China and in the top 50 instances, 23 were China and 16 were Indonesia. For the sake of comparison, I've plotted the maximum changes of the top ten unique countries.
+For my final analysis, I wanted to look at the gas correlation a different way. Rather than start with the largest rises in temperature over a period of time, I looked at the rate of change, over a five year period, in total gas emissions to see if there were trends in those countries' temperatures that were more apparent. The top 16 changes in total emissions were either in Indonesia or China and in the top 50 instances, 23 were China and 16 were Indonesia. For the sake of comparison, I've plotted the maximum changes of the top ten unique countries.
 
 <img src="analysis/ana_5/topTenEmissions.png" width="700">
 
-I then wanted to see what the top five countries emissions profiles looked like.
+I then wanted to see what the top five countries emissions profiles looked like. 
 
 <img src="analysis/ana_5/topFiveEmissionsPlot.png" width="650">
 
-Indonesia's change in total emissions is far more sporadic than China's, but the rate of increase for China is far greater. Comparing the change in temperature to the total emissions...
+Indonesia's change in total emissions is far more sporadic than China's, but the rate of increase for China is far greater. Note the Russian Federation data doesn't start until 1992; prior to that year, it was the Soviet Union. Comparing the change in temperature to the total emissions...
 
 <img src="analysis/ana_5/ChinaGasVsTemp.png" width="650">
 
