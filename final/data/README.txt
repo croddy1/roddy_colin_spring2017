@@ -1,0 +1,2 @@
+GlobalLandTemperature Dataset:
+This dataset is over 500mb, which I zipped in this folder. If you do not wish to use the zipped folder, you can find it at Kaggle, here (https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). If you do not have a Kaggle account, you will need to create one (it’s free). Because of the necessary account, I chose to also zip it in this folder.
