@@ -1,5 +1,5 @@
 # Final
-The purpose of this assignment was to perform 5 analyses on a readily downloadable dataset. With global warming being such a hot topic lately, I chose to look into global temperature patterns and what might be causing those patterns.
+The purpose of this assignment was to perform 5 analyses on a readily downloadable dataset. With global warming being such a *hot* topic lately, I chose to look into global temperature patterns and what might be causing those patterns.
 
 ## Analysis 1: Hot vs Cold
 To start, I wanted to understand the dataset a bit more. First, I calculated the average temperature of the dataset of country temperature. According to that dataset, the average temperature of the globe is 17.5&deg;C. I then created a histogram of the country temperature dataset to get a feel for the distribution of temperatures around the world. That histogram is below.
@@ -158,13 +158,13 @@ Looking at the graph comparing China's increase in temperature to its total emis
 
 <img src="analysis/ana_5/IndoGasVsTemp.png" width="700">
 
-Indonesia's plot seems to show more correlation between Indonesia's emissions and its gas emissions. The paths of both generally fallow the same pattern and the CO2 precedes the rise in temperatures as you'd expect. There is not a direct correlation, however, which suggests there is more that needs to be taken into account than just the level of emissions. Indonesia's total emissions rate is also much more chaotic than China's and it'd be interesting to understand why.
+Indonesia's plot seems to show more correlation between Indonesia's emissions and its gas emissions. The paths of both generally follow the same pattern and the CO2 precedes the rise in temperatures as you'd expect. There is not a direct correlation, however, which suggests there is more that needs to be taken into account than just the level of emissions. Indonesia's total emissions rate is also much more chaotic than China's and it'd be interesting to understand why.
 
-To better evaluate if there is a correlation between total emissions and rise in temperature I plotted the two in a scatterplot and applied a line of best fit. As can be seen in the graph below, there is a positive correlation between the two in that the higher emissions, the more likely the temperature is to increase as well.
+Since I was having trouble finding a trend at such a granular level, I decided take a step back. To better evaluate if there is a correlation between greenhouse gases and temperature rise, I plotted the the deltas of both temperature and emissions between 1970 and 2013. Using the scatterplot below, I was able to apply a line of best fit for the global data. As can be seen in the graph, there is a positive correlation between the two in that the higher emissions, the more likely the temperature is to increase as well.
 
 <img src="analysis/ana_5/tempVsEms.png" width="600">
 
-Global temperature and weather patterns are extremely complex and are effected by a myriad of variables. I think if I were to continue analyzing this information, I'd want to include the temperature of the ocean and perhaps reduce the resolution of focus and move to an area view of temperature rather than countries.
+Global temperature and weather patterns are extremely complex and are effected by a myriad of variables. I think if I were to continue analyzing this information, I would include the temperature of the ocean and perhaps reduce the resolution of focus and move to an area view of temperature rather than countries.
 
 
 ## Additional Instructions to Run Code
@@ -172,7 +172,7 @@ Global temperature and weather patterns are extremely complex and are effected b
 The main source of my data was too large to upload to Github, so you will need to download it from Kaggle, [here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). You will need to set up an account with Kaggle, but it is free. I will also include a zipped file of the datset if you wish to use that instead.
 
 ### Additional Library
-I used the basemap library from matplotlib, documentation can be found [here](https://matplotlib.org/basemap/). To install, simply execute `$conda install basemap` in your terminal.
+I used the basemap library from matplotlib to plot the world map. The documentation can be found [here](https://matplotlib.org/basemap/). To install, simply execute `$conda install basemap` in your terminal.
 
 
 ## Extra
@@ -184,7 +184,7 @@ Out of curiosity, I wanted to know which countries had the greatest rise in tota
 
 As you can see, China has had a staggering increase in emissions over 43 years and shows no signs of stopping. 
 
-I also wanted to see which countries were currently producing the most greenhouse gases around the world. You can find a graph of all emissions [here](analysis/ana_5/topEmissions.png) and the total emissions of the top five contributors since 1970, below. Although the US is one of the top contributors, it's to see the total emissions are declining.
+I also wanted to see which countries were currently producing the most greenhouse gases around the world. You can find a graph of all emissions [here](analysis/ana_5/topEmissions.png) and the total emissions of the top five contributors since 1970, below. Although the US is one of the top contributors, it's good to see the total emissions are declining.
 
 <img src="analysis/ana_5/topEmsPlot.png" width="600">
 
